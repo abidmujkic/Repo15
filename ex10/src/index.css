@@ -1,0 +1,94 @@
+html, body {
+    margin: 0;
+}
+
+
+.google-image {
+    text-align: center;
+    margin-top: 250px;
+}
+
+#form {
+    text-align: center;
+}
+
+#form-search {
+    width: 500px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    outline: 0;
+    border-radius: 50px;
+    border: 1px solid #eeeeee;
+}
+
+#buttons {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#google_search {
+    margin-right: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#im_feeling_lucky {
+    margin-left: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+footer  {
+    position: absolute;
+    background: #f2f2f2;
+    border-top: solid 2px #e4e4e4;
+    bottom: 0;
+    padding-bottom: 0;
+    width: 100%;
+    
+  }
+  
+  footer ul li {
+    display: inline;
+    color: #666666;
+    font-size: 14px;
+    padding: 13px;
+  }
+  
+  footer ul {
+    float: left;
+    padding: 1px;
+  }
+  
+  .footer-right {
+    float: right;
+  }
+
+  header {
+      position: absolute;
+      top: 0;
+      padding-top: 0;
+      width: 100%;
+  }
+
+  header ul li {
+      display: inline;
+      padding: 8px
+  }
+
+  header ul {
+      float: right;
+      padding: 10px;
+  }
+
+  #sign_in {
+    background-color: #2482e7;
+    border-radius: 5px;
+    color: white;
+    padding: 10px;
+}
+
+#sign_in a {
+    color: white;
+}
