@@ -1,7 +1,7 @@
 //
 const arena = () => {
 //
-"use strics";
+"use strict";
 return new Date();
 };
 console.log(arena());

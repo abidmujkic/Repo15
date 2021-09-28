@@ -6,7 +6,7 @@ let message;
 myName = "Padawans";
 function myMsg(name) {
     "use strict";
-    message = "Hello, " + name + "!"
+    message = "Hello, " + name + "!";
 
     return message;
 }
